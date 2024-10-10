@@ -1,6 +1,10 @@
-# WebApp boilerplate with React JS and Flask API
+# Ruta Track
 
-Build web applications using React.js for the front end and python/flask for your backend API.
+# Contributors: Beka Khutsishvili, Victor Bravo, Brayan Bravo Valencia.
+
+# Description: Ruta Track es una herramienta integral para la gestión y optimización de operaciones de transporte y logística. Con funciones avanzadas como la planificación de rutas, cálculo de peajes y costos de vehículos, y almacenamiento de trayectos, la plataforma está diseñada para ser intuitiva y flexible. Ideal para empresas de transporte medianas, Ruta Track facilita la mejora de la eficiencia operativa y la rentabilidad, ayudando a gestionar proveedores, controlar costos, y obtener beneficios al optimizar rutas y operaciones diarias. Es una solución enfocada en mejorar la competitividad del sector.
+
+# Technologies: Build web applications using React.js for the front end and python/flask for your backend API.
 
 - Documentation can be found here: https://start.4geeksacademy.com/starters/react-flask
 - Here is a video on [how to use this template](https://www.loom.com/share/f37c6838b3f1496c95111e515e83dd9b)
